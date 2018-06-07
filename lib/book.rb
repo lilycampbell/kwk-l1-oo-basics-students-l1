@@ -6,7 +6,7 @@ class Book
   end 
 end
 
- book_1 = Book.new("Harry Potter", "204", "fiction")
- book_2 = Book.new("yellow", "378", "nonfiction")
+ book_1 = Book.new("Harry Potter", "223", "fiction")
+ book_2 = Book.new("", "378", "nonfiction")
  book_3 = Book.new("blue", "167", "history")
  
