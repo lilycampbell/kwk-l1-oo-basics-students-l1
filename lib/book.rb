@@ -4,6 +4,18 @@ class Book
     @number_of_pages = number_of_pages
     @genre = genre
   end 
+
+ def title
+   @title
+ end
+
+def number_of_pages
+   @number_of_pages
+ end
+
+ def genre
+   @genre 
+ end
 end
 
 
