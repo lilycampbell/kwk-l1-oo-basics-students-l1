@@ -19,9 +19,7 @@ def number_of_pages
 end
 
 
- book_1 = Book.new("Harry Potter", "223", "fiction")
- book_2 = Book.new("Hidden Figures", "378", "nonfiction")
- book_3 = Book.new("Gold Rush", "167", "history")
+ book_1 = Book.new("", "223", "fiction")
  
  
  
