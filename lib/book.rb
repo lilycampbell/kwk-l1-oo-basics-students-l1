@@ -10,3 +10,5 @@ end
  book_2 = Book.new("Hidden Figures", "378", "nonfiction")
  book_3 = Book.new("Gold Rush", "167", "history")
  
+ 
+ puts Book 
